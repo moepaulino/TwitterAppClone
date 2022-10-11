@@ -99,7 +99,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/moepaulino/TwitterAppClone/blob/main/TwitterAppClonePart1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/moepaulino/TwitterAppClone/blob/main/TwitterAppPart1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
